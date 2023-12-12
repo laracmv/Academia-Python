@@ -1,0 +1,8 @@
+def alunos_impares(x):
+    i = 0
+    impares=[]
+    while i < len(x):
+        if i % 2 != 0 and i != 0:
+            impares.append(x[i])
+        i+=1
+    return impares 

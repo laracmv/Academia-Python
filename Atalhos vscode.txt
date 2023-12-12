@@ -1,0 +1,5 @@
+Shift + Alt + ↓/↑  : copia e cola determinada linha
+
+Alt + ↓/↑ : inverte ordem de itens
+
+Shift + Alt + F: formatar código automaticamente

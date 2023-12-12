@@ -1,0 +1,7 @@
+import math
+
+cosseno90= math.cos(90)
+print(cosseno90)
+
+cosseno0= math.cos(0)
+print(cosseno0)
